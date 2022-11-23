@@ -1,7 +1,7 @@
 import string
 import random
 
-#adding all keybinds to char
+#adding all keys to char
 chars = " " + string.punctuation + string.digits + string.ascii_letters 
 
 #creating a list for char
